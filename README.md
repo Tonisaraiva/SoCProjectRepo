@@ -17,5 +17,6 @@
 
 Link to project | Description | Team Members|
 |---|---|---|
+|https://soc-wellbeing.herokuapp.com/|Soc thinking about your wellbeing and reminding you to drink water, stand up and take breaks| Maria Crawford, Conor McGuigan, Toni Saraiva, Guy Robbins|
 |---|---|---|
 |---|---|---|
