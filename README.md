@@ -9,7 +9,7 @@
 
 <div align="center">
     <sub>The Projects</sub>
-    <br />
+    </div><br />
 
 ---
 
@@ -24,4 +24,7 @@ Link to project | Description | Team Members|
 |https://devcards-app.netlify.app/|Revision aid using flash cards with score tracker and note-taking function. (Maybe size down browser a bit for best layout as we designed it for mobile but it’s not perfectly responsive haha)|Liam Burton, William Calderbank, Marwa Ismail, Fatima Hashi|
 |https://socherosjourney.netlify.app/|Point and click game|Richard Mckenzie, Leah Chen, Indya Molloy, Eliana Calote|
 |https://theopenspace.herokuapp.com/|Imposter syndrome, externalisation comment cards|Sareena Naser, Laurence Nunn, Ijaz Driscoll, Ilham Abdi|
+|https://soc-links-tracker.herokuapp.com/|Allows you to see the resources shared during the course week by week|Valerio Cipolla|
+|https://resourceapi.netlify.app/|Plethora App: a curated list of resources for SoC bootcampers|Chirag Mehta, Kate Platonova,Sheban Saunders|
 |---|---|---|
+
