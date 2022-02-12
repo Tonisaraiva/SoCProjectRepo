@@ -26,6 +26,5 @@ Link to project | Description | Team Members|
 |https://socherosjourney.netlify.app/|Point and click game|Richard Mckenzie, Leah Chen, Indya Molloy, Eliana Calote|
 |https://theopenspace.herokuapp.com/|Imposter syndrome, externalisation comment cards|Sareena Naser, Laurence Nunn, Ijaz Driscoll, Ilham Abdi|
 |https://soc-links-tracker.herokuapp.com/|Allows you to see the resources shared during the course week by week|Valerio Cipolla|
-|https://resourceapi.netlify.app/|Plethora App: a curated list of resources for SoC bootcampers|Chirag Mehta, Kate Platonova,Sheban Saunders|
 |---|---|---|
-
+|---|---|---|
