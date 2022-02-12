@@ -1,6 +1,7 @@
 <div align="center">
     <h1>School of Code Project Week Repository</h1>
     <i>A collective list of projects developed by SoC Bootcampers</i>
+    <p>These projects were developed over less than 5 days by teams of people working together for the first time on Day 1 and presenting their results on Day 5 to a panel of Industry professionals</p>
 </div>
 
 <br />
