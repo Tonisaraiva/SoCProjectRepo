@@ -1,7 +1,7 @@
 <div align="center">
-    <h1>School of Code Project Week Repository</h1>
+    <h1>School of Code Project Week and Month Repository</h1>
     <i>A collective list of projects developed by SoC Bootcampers</i>
-    <p>These projects were developed over less than 5 days by teams of people working together for the first time on Day 1 and presenting their results on Day 5 to a panel of Industry professionals</p>
+    <p>These projects were developed either over less than 5 days by teams of people working together for the first time on Day 1 and presenting their results on Day 5 to a panel of Industry professionals, or over 4 weeks during the last month of the bootcamp</p>
 </div>
 
 <br />
@@ -13,9 +13,16 @@
     </div><br />
 
 ---
+If you want to add your project to this list, either fork the repo and then make a Pull Request which will be reviewed before being added to the page or just contact me on the SoC Slack @Toni
+
 
 ## Index
-# Projectt Week
+[Project Week](#Project-Week)
+[Project Month](#Project-Month)
+
+
+
+# Project Week
 
 Link to project | Description | Team Members|
 |---|---|---|
@@ -35,6 +42,22 @@ Link to project | Description | Team Members|
 
 Team Number | Link to project | Description | Team Members|
 |---|---|---|---|
-| 16 |https://ukla.netlify.app/|Familia, a micro social app to facilitate communication betwene family members| [Kevwe Olomu](), [Lorcan McCullagh](), [Mariano Quiroga](), [Nadjma Diiryie](), [Toni Saraiva](), [Wahida Omar]()|
-|---|---|---|---|
+
+| 1 |---|---|---|
+| 2 |---|---|---|
+| 3 |---|---|---|
+| 4 |---|---|---|
+| 5 |---|---|---|
+| 6 |---|---|---|
+| 7 |---|---|---|
+| 8 |---|---|---|
+| 9 |---|---|---|
+| 10 |---|---|---|
+| 11 |---|---|---|
+| 12 |---|---|---|
+| 13 |---|---|---|
+| 14 |---|---|---|
+| 15 |---|---|---|
+| 16 |https://ukla.netlify.app/|Familia, a micro social app to facilitate communication between family members| [Kevwe Olomu](https://github.com/kevweolomu), [Lorcan McCullagh](https://github.com/lorcanmc), [Mariano Quiroga](https://github.com/marianoeq), [Nadjma Diiriye](https://github.com/Najmadiiriye), [Toni Saraiva](https://github.com/Tonisaraiva), [Wahida Omar](https://github.com/wahidaomar)|
+| 17 |---|---|---|
 |---|---|---|---|
