@@ -42,7 +42,6 @@ Link to project | Description | Team Members|
 
 Team Number | Link to project | Description | Team Members|
 |---|---|---|---|
-
 | 1 |---|---|---|
 | 2 |---|---|---|
 | 3 |---|---|---|
