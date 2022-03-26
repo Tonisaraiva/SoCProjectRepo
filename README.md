@@ -20,8 +20,9 @@ If you want to add your project to this list, either fork the repo and then make
 
 # Project Week
 
-| Link to project                                    | Description                                                                                                                                                                                     | Team Members                                                                                                                          |
-| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Link to project    | Description            | Team Members        |
+| ------------ | ----------------------- | ------------------ |
+
 | https://soc-wellbeing.herokuapp.com/               | Soc thinking about your wellbeing and reminding you to drink water, stand up and take breaks                                                                                                    | Maria Crawford, Conor McGuigan, Toni Saraiva, Guy Robbins                                                                             |
 | https://hackaplanner.netlify.app/                  | This app aims to help bootcampers planning and keeping track of objectives and goals during the weekly hackathons.                                                                              | Tom Earl, Ashlie Prempeh, Max Muller, Eni Bellver                                                                                     |
 | https://compassionate-torvalds-66b2c9.netlify.app/ | Resource tracker and notes taking app                                                                                                                                                           | James Gaynor, Mihai-Sebastian Butoi, Yegana Abdullayeva, Nada F                                                                       |
@@ -35,25 +36,25 @@ If you want to add your project to this list, either fork the repo and then make
 # Project Month
 
 | Team Number | Link to project  |  Description     | Team Members | 
-| -------- | | ------------------- | ----------------------- | --------- |
+| -------- |  ------------------- | ----------------------- | --------- |
 
 
- | 1 | | -- | -- | -- |
- | 2 | | -- | -- | -- |
- | 3 | | -- | -- | -- |
- | 4 | | -- | -- | -- |
- | 5 | | -- | -- | -- |
- | 6 | | -- | -- | -- |
- | 7 | | -- | -- | -- |
- | 8 | | -- | -- | -- |
- | 9 | | -- | -- | -- |
- | 10 | | -- | -- | -- |
- | 11 | | -- | -- | -- |
- | 12 | | -- | -- | -- |
- | 13 | | -- | -- | -- |
- | 14 | | -- | -- | -- |
- | 15 | | -- | -- | -- |
+ | 1 | -- | -- | -- |
+ | 2 |  -- | -- | -- |
+ | 3 |  -- | -- | -- |
+ | 4 |  -- | -- | -- |
+ | 5 |  -- | -- | -- |
+ | 6 |  -- | -- | -- |
+ | 7 |  -- | -- | -- |
+ | 8 |  -- | -- | -- |
+ | 9 |  -- | -- | -- |
+ | 10 |  -- | -- | -- |
+ | 11 |  -- | -- | -- |
+ | 12 |  -- | -- | -- |
+ | 13 |  -- | -- | -- |
+ | 14 |  -- | -- | -- |
+ | 15 |  -- | -- | -- |
 | 16 | https:/ukla.netlify.app             | Familia, a micro social app to facilitate communication at family level                                                                | [Kevwe Olomu](), [Lorcan McCullagh](), [Mariano Quiroga](), [Nadjma Diiryie](), [Toni Saraiva](https://github.com/Tonisaraiva), [Wahida Omar]()|
-| 17 | | -- | -- | -- |
+| 17 |  -- | -- | -- |
 
              
