@@ -21,7 +21,7 @@ If you want to add your project to this list, either fork the repo and then make
 # Project Week
 
 | Link to project    | Description            | Team Members        |
-| ------------ | ----------------------- | ------------------ |
+| ------------------------------------------ | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 
 | https://soc-wellbeing.herokuapp.com/               | Soc thinking about your wellbeing and reminding you to drink water, stand up and take breaks                                                                                                    | Maria Crawford, Conor McGuigan, Toni Saraiva, Guy Robbins                                                                             |
 | https://hackaplanner.netlify.app/                  | This app aims to help bootcampers planning and keeping track of objectives and goals during the weekly hackathons.                                                                              | Tom Earl, Ashlie Prempeh, Max Muller, Eni Bellver                                                                                     |
