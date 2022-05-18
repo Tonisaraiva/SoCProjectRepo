@@ -43,21 +43,6 @@ Link to project | Description | Team Members|
 
 Team Number | Link to project | Description | Team Members|
 |---|---|---|---|
-| 1 |---|---|---|
-| 2 |---|---|---|
-| 3 |---|---|---|
-| 4 |---|---|---|
-| 5 |---|---|---|
-| 6 |---|---|---|
-| 7 |---|---|---|
-| 8 |---|---|---|
-| 9 |---|---|---|
-| 10 |---|---|---|
-| 11 |---|---|---|
-| 12 |---|---|---|
-| 13 |---|---|---|
-| 14 |---|---|---|
-| 15 |---|---|---|
 | 16 |https://ukla.netlify.app/|Familia, a micro social app to facilitate communication between family members| [Kevwe Olomu](https://github.com/kevweolomu), [Lorcan McCullagh](https://github.com/lorcanmc), [Mariano Quiroga](https://github.com/marianoeq), [Nadjma Diiriye](https://github.com/Najmadiiriye), [Toni Saraiva](https://github.com/Tonisaraiva), [Wahida Omar](https://github.com/wahidaomar)|
 | 17 |---|---|---|
 |---|---|---|---|
